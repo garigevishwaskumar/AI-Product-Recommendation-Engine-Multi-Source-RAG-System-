@@ -1,0 +1,13 @@
+product,price,category,specs,review
+HP Victus 15,59999,Laptop,"Ryzen 5, 8GB RAM, 512GB SSD, GTX 1650","Performance is great for coding and gaming. Battery is average but overall good."
+HP Victus 15,59999,Laptop,"Ryzen 5, 8GB RAM, 512GB SSD, GTX 1650","Heating issue after long usage, fan noise is high."
+HP Victus 15,59999,Laptop,"Ryzen 5, 8GB RAM, 512GB SSD, GTX 1650","Display quality is good and keyboard is comfortable."
+Lenovo IdeaPad Gaming 3,56999,Laptop,"Ryzen 5, 8GB RAM, 512GB SSD, GTX 1650","Very good performance and smooth multitasking. Best for students."
+Lenovo IdeaPad Gaming 3,56999,Laptop,"Ryzen 5, 8GB RAM, 512GB SSD, GTX 1650","Battery backup is poor, only 3-4 hours."
+Lenovo IdeaPad Gaming 3,56999,Laptop,"Ryzen 5, 8GB RAM, 512GB SSD, GTX 1650","No heating issues, cooling system is strong."
+Acer Aspire 7,54999,Laptop,"Ryzen 5, 16GB RAM, 512GB SSD, GTX 1650","Good laptop for ML tasks. RAM is enough for heavy work."
+Acer Aspire 7,54999,Laptop,"Ryzen 5, 16GB RAM, 512GB SSD, GTX 1650","Build quality feels average, but performance is excellent."
+Acer Aspire 7,54999,Laptop,"Ryzen 5, 16GB RAM, 512GB SSD, GTX 1650","Speakers are weak, but display is good."
+ASUS TUF F15,62999,Laptop,"Intel i5, 16GB RAM, 512GB SSD, RTX 3050","Excellent gaming and ML performance. RTX 3050 is powerful."
+ASUS TUF F15,62999,Laptop,"Intel i5, 16GB RAM, 512GB SSD, RTX 3050","Heating is controlled and fan is okay."
+ASUS TUF F15,62999,Laptop,"Intel i5, 16GB RAM, 512GB SSD, RTX 3050","Battery backup is low but expected for gaming laptop."
